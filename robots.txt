@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-bh1xpz.saturadar88.shop/sitemap.xml
